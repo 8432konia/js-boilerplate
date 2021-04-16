@@ -1,12 +1,11 @@
 # js-boilerplate
 
-以下，開発環境について
+Develop Environment Configuration
 - backend: express
 - frontend: svelte
 
-という構成になっている
 
-## パッケージの追加
+## Case to Add Packages
 ```
 # client ver.
 cd client
@@ -17,7 +16,7 @@ cd server
 npm i package_name
 ```
 
-## 起動
+## Case to Start
 ```
 npm run dev
 ```
